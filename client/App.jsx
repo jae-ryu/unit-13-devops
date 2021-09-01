@@ -20,7 +20,7 @@ class App extends Component {
   render() {
     return(
       <div>
-        <div>this is sick</div>
+        <div>this is sick!!</div>
         <MainContainer />
       </div>
     )
