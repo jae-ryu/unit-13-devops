@@ -18,7 +18,7 @@ class App extends Component {
   // }
 
   render() {
-    return(
+    return (
       <div>
         <div>this is sick</div>
         <MainContainer />
